@@ -12,7 +12,7 @@ function Banner({gameBanner}) {
             <button className='bg-blue-700 text-white px-2 p-1'>Get Now</button>
         </div>
         <img src={gameBanner.background_image} 
-        className='md:h-[320px] w-full object-cover
+        className='md:h-[720px] w-full object-cover
         rounded-xl' />
     </div>
   )

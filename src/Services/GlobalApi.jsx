@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const key="18d8dc115d954615a6fe8522598e8a97";
+const key="40a68e10ac2b4e90b6ba9516400d6fbd";
 const axiosCreate=axios.create({
     baseURL:'https://api.rawg.io/api'
 })
